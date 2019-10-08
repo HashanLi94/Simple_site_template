@@ -1,0 +1,49 @@
+*{
+    margin  : 10px;
+    
+    padding: 0px; 
+}
+
+header{
+    text-align: center;
+}
+ 
+article{
+    border-bottom: 2px;
+    border-bottom-color: 2px solid  blanchedalmond ;
+}
+
+nav{
+    background: blanchedalmond;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+    margin: 0;
+}
+
+ul li{
+    margin: 0;
+    display: inline;
+}
+
+ul li a{
+    padding: 0px 10px;
+    display: inline-block ;
+   
+}
+
+article p{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer{
+    text-align: center;
+}
